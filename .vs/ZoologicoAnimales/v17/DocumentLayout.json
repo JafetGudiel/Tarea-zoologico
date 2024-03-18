@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\tortuga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\tortuga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\pavoreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\pavoreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\panda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\panda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\rinoceronte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\rinoceronte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\cebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\cebra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\lobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\lobo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\pinguino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\pinguino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\serpiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\serpiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\cocodrilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\cocodrilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\oso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\oso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\mono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\mono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\tigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\tigre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\leon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\jirafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\jirafa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|c:\\users\\tf049\\documents\\clases cursos c#\\zoologicoanimales\\zoologicoanimales\\elefante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA09972F-DA59-49D7-A6F5-BE036CFA1645}|ZoologicoAnimales\\ZoologicoAnimales.csproj|solutionrelative:zoologicoanimales\\elefante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tortuga.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Tortuga.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Tortuga.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Tortuga.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Tortuga.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:51:36.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PavoReal.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\PavoReal.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\PavoReal.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\PavoReal.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\PavoReal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:46:16.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cebra.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Cebra.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Cebra.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Cebra.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Cebra.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:28:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lobo.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Lobo.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Lobo.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Lobo.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Lobo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:22:48.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Program.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Program.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Program.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Program.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAkwJEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T14:16:15.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rinoceronte.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Rinoceronte.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Rinoceronte.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Rinoceronte.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Rinoceronte.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:34:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Panda.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Panda.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Panda.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Panda.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Panda.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:40:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pinguino.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Pinguino.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Pinguino.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Pinguino.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Pinguino.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:17:09.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Serpiente.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Serpiente.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Serpiente.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Serpiente.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Serpiente.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:06:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cocodrilo.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Cocodrilo.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Cocodrilo.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Cocodrilo.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Cocodrilo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:59:05.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Leon.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Leon.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Leon.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Leon.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Leon.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:09:36.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Jirafa.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Jirafa.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Jirafa.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Jirafa.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Jirafa.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:06:09.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Elefante.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Elefante.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Elefante.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Elefante.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Elefante.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T01:55:31.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mono.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Mono.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Mono.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Mono.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Mono.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:42:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Oso.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Oso.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Oso.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Oso.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Oso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:52:07.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tigre.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Tigre.cs",
+              "RelativeDocumentMoniker": "ZoologicoAnimales\\Tigre.cs",
+              "ToolTip": "C:\\Users\\TF049\\Documents\\clases cursos C#\\ZoologicoAnimales\\ZoologicoAnimales\\Tigre.cs",
+              "RelativeToolTip": "ZoologicoAnimales\\Tigre.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T02:31:04.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

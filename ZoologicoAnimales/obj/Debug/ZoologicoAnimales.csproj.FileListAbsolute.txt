@@ -1,0 +1,7 @@
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\ZoologicoAnimales.exe.config
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\ZoologicoAnimales.exe
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\bin\Debug\ZoologicoAnimales.pdb
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\ZoologicoAnimales.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\ZoologicoAnimales.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\ZoologicoAnimales.exe
+C:\Users\TF049\Documents\clases cursos C#\ZoologicoAnimales\ZoologicoAnimales\obj\Debug\ZoologicoAnimales.pdb
