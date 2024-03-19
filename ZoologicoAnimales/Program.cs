@@ -147,12 +147,15 @@ namespace ZoologicoAnimales
                         break;
                     default: break;
                 }
+                Console.WriteLine("Pulse enter para visitar a otro animal o el numero 0 para salir");
+                Console.ReadLine();
                 Console.Clear();
+                
+
             } while (!abandonar);
-
-
-
-
+            Console.WriteLine("--------------------------------------------------------------------------------------------------------");
+            Console.WriteLine("GRACIAS POR UTILIZAR EL PROGRAMA :) ");
+            Console.WriteLine("--------------------------------------------------------------------------------------------------------");
             Console.ReadLine();
 
 

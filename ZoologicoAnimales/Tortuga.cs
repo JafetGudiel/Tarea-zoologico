@@ -8,10 +8,10 @@ namespace ZoologicoAnimales
 {
     internal class Tortuga
     {
-        public string Nombre { get; set; }
-        public double Peso { get; set; }
-        public double Altura { get; set; }
-        public string Genero { get; set; }
+        private string Nombre { get; set; }
+        private double Peso { get; set; }
+        private double Altura { get; set; }
+        private string Genero { get; set; }
 
         public Tortuga(string nombre, double peso, double altura, string genero)
         {
@@ -34,7 +34,7 @@ namespace ZoologicoAnimales
         }
         public void sonidoTortuga()
         {
-            Console.WriteLine("El quiere morder y hace guazzzzzz!!");
+            Console.WriteLine("La tortuga hace kuaaazzz intentando atacar!!");
         }
         public void movimientosTortuga()
         {

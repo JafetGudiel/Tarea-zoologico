@@ -8,10 +8,10 @@ namespace ZoologicoAnimales
 {
     internal class Jirafa
     {
-        public string Nombre { get; set; }
-        public double Peso { get; set; }
-        public double Altura { get; set; }
-        public string Genero { get; set; }
+        private string Nombre { get; set; }
+        private double Peso { get; set; }
+        private double Altura { get; set; }
+        private string Genero { get; set; }
 
         public Jirafa(string nombre, double peso, double altura, string genero)
         {
